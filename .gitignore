@@ -3,6 +3,8 @@
 
 # Log file
 *.log
+Fcomkartbackend/target
+Fcomkart/target
 
 # BlueJ files
 *.ctxt
